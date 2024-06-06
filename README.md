@@ -11,6 +11,8 @@ This manual testing project for the Mahfil mobile app covers essential topics su
 
 # Test Plan:
 The test plan acts as a rule book for testing the Mahfil app. It outlines the scope and approach, identifies risks, and helps mitigate them. The test plan includes:
+![image](https://github.com/aopi74/Assignment_Steadfast_IT/assets/85184571/fbc719f7-0263-4fa2-b838-7d6f4c6b1e66)
+
 
 
 # Product analysis
